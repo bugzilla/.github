@@ -1,4 +1,4 @@
-![Image of Buggie riding a bike](profile/bugzilla-bike-banner.png)
+![Image of Buggie riding a bike](https://github.com/bugzilla/.github/raw/main/profile/buggie-bike-banner.png)
 
 Bugzilla is a robust, featureful and mature defect-tracking system, or
 bug-tracking system. Defect-tracking systems allow teams of developers to keep
